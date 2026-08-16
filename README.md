@@ -34,6 +34,8 @@ Comparison charts and confusion matrix
 
 ## Dataset
 
+https://drive.google.com/drive/folders/1H42LR7LUii6gWHmE1tbph7dr4JWiolb9?usp=sharing
+
 The project is designed around the Olivetti / AT&T Faces dataset. The preparation script downloads the dataset through scikit-learn, extracts grayscale face images and subject labels, and saves them locally as:
 
 ```text
